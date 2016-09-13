@@ -1,0 +1,13 @@
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.Form1.resources
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.Properties.Resources.resources
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.pdb
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.exe
+c:\users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.pdb
+C:\Users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe.manifest
+C:\Users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.application
+C:\Users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.exe.manifest
+C:\Users\kwnouli\documents\visual studio 2010\Projects\YouBrowse\YouBrowse\obj\x86\Debug\YouBrowse.application
